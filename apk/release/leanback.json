@@ -1,5 +1,5 @@
 {
-  "code": 289,
-  "name": "2.8.9",
-  "desc": "* [EXO11]\n* Optimize"
+  "code": 290,
+  "name": "2.9.0",
+  "desc": "* [EXO]\n* Fix H265 get stuck\n* Add vc1 decode\n* [APP]\n* Fix yt"
 }
